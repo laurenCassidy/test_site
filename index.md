@@ -1,1 +1,1 @@
-![QR code](/assests/docs/LC_questionnaire_QR.png)
+![QR code](/docs/assests/LC_questionnaire_QR.png)
