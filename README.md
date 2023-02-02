@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Heading One
 
 ## Heading Two
